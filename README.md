@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 💻   **I'm a Back-End Developer.**
+- 
+[![Jieun Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieunee2&&show_icons=true&theme=cobalt)]
+
 
 <!--
 **jieunee2/jieunee2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
