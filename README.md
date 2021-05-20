@@ -1,3 +1,9 @@
+<div align="center">
+            
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header)
+
+</div>
+
 <h3 align="center"> Hi there 👋 </h3>
 <p align="center">I'm a Back-End Developer. 🌱</p>
 
@@ -29,6 +35,12 @@
             
 <a href="https://velog.io/@jejjang" target="_blank"><img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 <a href="mailto:lje980620@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+</div>
+
+<div align="center">
+            
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer)
 
 </div>
 
