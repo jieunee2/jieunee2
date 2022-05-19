@@ -9,7 +9,7 @@
 
 <div align="center">
             
-<!-- ![Jieun Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieunee2&&show_icons=true&theme=cobalt) -->
+![Jieun Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieunee2&&show_icons=true&theme=cobalt)
 
 </div><br>
 
