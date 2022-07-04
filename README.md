@@ -1,10 +1,10 @@
 <div align="center">
             
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header)
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Jieun!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 </div>
 
-<h3 align="center"> Hi there 👋 </h3>
 <p align="center">I'm a Back-End Developer. 🌱</p>
 
 <div align="center">
@@ -17,7 +17,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
