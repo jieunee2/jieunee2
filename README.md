@@ -9,7 +9,8 @@
 
 <div align="center">
             
-![Jieun Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieunee2&&show_icons=true&theme=cobalt)
+![Jieun Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieunee2&&show_icons=true&theme=radical)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieunee2&layout=compact&theme=dark)
 
 </div><br>
 
@@ -35,8 +36,8 @@
             
 <a href="https://velog.io/@jejjang" target="_blank"><img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 <a href="mailto:lje980620@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
+            
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjieunee2%2Fhit-counter&count_bg=%23454A41&title_bg=%23D32A6C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
 
 <div align="center">
@@ -44,6 +45,7 @@
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer)
 
 </div>
+
 
 <!--
 **jieunee2/jieunee2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
