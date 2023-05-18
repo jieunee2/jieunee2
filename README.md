@@ -1,10 +1,7 @@
 <div align="center">
-            
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Jieun!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&text=Jiny's%20GitHub%20&fontSize=40&fontAlignY=40&fontAlign=80&height=250)
+                        
 </div>
 
 <p align="center">I'm a Back-End Developer. 🌱</p>
@@ -43,8 +40,8 @@
 </div>
 
 <div align="center">
-            
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer)
+         
+<!-- ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer) -->
 
 </div>
 
