@@ -1,9 +1,8 @@
 <div align="center">
             
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&text=Jiny's%20GitHub%20&fontSize=40&fontAlignY=40&fontAlign=80&height=250)                        
+![header](https://capsule-render.vercel.app/api?font=Inconsolata&type=waving&color=timeGradient&animation=twinkling&text=Jiny's%20GitHub%20&fontSize=40&fontAlignY=40&fontAlign=80&height=250)   
+<p style="font-family='Inconsolata'; font-size: 100px;"><b>I'm a Back-End Developer. 🌱</b></p>
 </div>
-
-<p align="center">I'm a Back-End Developer. 🌱</p>
 
 <div align="center">
             
